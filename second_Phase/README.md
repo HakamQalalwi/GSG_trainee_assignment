@@ -1,7 +1,7 @@
 # React Product List Application
 
 ## Objective
-Convert the HTML, CSS, and JavaScript solution from Phase 1 into a React application, utilizing the concepts learned from the Mosh Hamedani React tutorial.
+Convert the HTML, CSS, and JavaScript solution from Phase 1 into a React application.
 
 ## Project Overview
 This project implements a product list that can be filtered by category using React components, state management, and props. The app follows a component-based structure with dynamic product listing and filtering functionality.
