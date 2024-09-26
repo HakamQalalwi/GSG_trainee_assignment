@@ -51,3 +51,13 @@ This project implements a product list that can be filtered by category using Re
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
+
+2. **Navigate to the project directory:**
+   ```sh
+   cd second_Phase
+3. **Install node modules dependencies:**
+   ```sh
+   npm install
+4. **Start the project:**
+   ```sh
+   npm start
